@@ -7,7 +7,7 @@ Energy Engineer
 I am an Energy Engineer specializing in Renewable Energy Systems and currently learning Software Engineering to supplement my career.
 
 * 🌍  I'm based in Nairobi
-* ✉️  You can contact me at [silaskaranu125@gmail.com](mailto:silaskaranu125@gmail.com)
+* ✉️  You can contact me at [karanusilas125@gmail.com](mailto:karanusilas125@gmail.com)
 * 🧠  I'm learning Software Engineering, Cybersecurity and Artificial intelligence.
 * 🤝  I'm open to collaborating on Projects related to Integration of AI and Tech in energy optimatisation.
 * ⚡  Even though it was not my first option, i fell in love with coding.
