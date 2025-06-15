@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Energy Engineer
 ---------------
 
-I am an Energy Engineer specializing in Renewable Energy Systems and currently learning Software Engineering.
+I am an Energy Engineer, specialising in Renewable Energy Systems, and I am currently learning Software Engineering.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [karanusilas125@gmail.com](mailto:karanusilas125@gmail.com)
